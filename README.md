@@ -1,2 +1,1 @@
-# editorMemes
-editor de memes y generador de volantes
+Tener en cuenta al probar que los textos se posicionan haciendo drag and drop
